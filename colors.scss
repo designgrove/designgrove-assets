@@ -1,0 +1,17 @@
+// Brand palette map
+$dg-colors: (
+  blue-900:  #392F5A,
+  teal-500:  #9DD9D2,
+  wheat-400: #F4D06F,
+  heather-50:  #FFF8F0,
+  heather-100: #FAF2E6,
+  border-light: #EDE0D4,
+  divider: #CFC6C0,
+  navier-900: #160F29,
+  navier-700: #3A2F41,
+  error:   #D9534F,
+  success: #3CB371,
+  info:    #5BC0EB
+);
+
+// Example: use map-get($dg-colors, blue-900);

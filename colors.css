@@ -1,0 +1,29 @@
+/* Design Grove – Brand Color Tokens */
+:root {
+  /* PRIMARY */
+  --dg-blue-900: #392F5A;  /* Deep Blue / Brand */
+  --dg-teal-500: #9DD9D2;  /* Teal / Links */
+  --dg-wheat-400: #F4D06F; /* CTA */
+
+  /* NEUTRALS */
+  --dg-heather-50: #FFF8F0; /* Light bg */
+  --dg-heather-100: #FAF2E6; /* Card surface */
+  --dg-border-light: #EDE0D4;
+  --dg-divider: #CFC6C0;
+
+  /* TEXT / DEPTH */
+  --dg-navier-900: #160F29; /* Primary text */
+  --dg-navier-700: #3A2F41; /* Secondary text */
+
+  /* STATES */
+  --dg-error:   #D9534F;
+  --dg-success: #3CB371;
+  --dg-info:    #5BC0EB;
+
+  /* Overlay */
+  --dg-overlay-80: rgba(22, 15, 41, 0.8);
+}
+
+/* Quick utility demo (optional) */
+.text-brand   { color: var(--dg-blue-900); }
+.bg-cta       { background: var(--dg-wheat-400); color: var(--dg-navier-900); }
