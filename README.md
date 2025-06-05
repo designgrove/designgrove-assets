@@ -1,5 +1,5 @@
 # designgrove-assets
-Assets
+Shared design tokens for Design Grove sites
 
 ## License
 This design token package is released under the MIT License.  
