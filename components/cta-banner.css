@@ -1,0 +1,19 @@
+.cta-banner {
+    background: var(--dg-teal);
+    padding: 3rem 2rem;
+    border-radius: 1.5rem;
+    text-align: center;
+    margin: 4rem auto;
+    color: var(--dg-navier-900);
+}
+
+.cta-banner h2 {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: var(--weight-bold);
+    margin-bottom: 1rem;
+}
+
+.cta-banner .btn {
+    margin-top: 1rem;
+}
