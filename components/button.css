@@ -11,17 +11,18 @@
     display: inline-block;
     border: none;
     transition: all 0.25s ease;
-    background: var(--dg-wheat-500);
+    background: var(--dg-wheat-400);
     color: var(--dg-navier-900);
 }
 
 .btn:hover {
-    background: var(--dg-wheat-600);
+    background: var(--dg-wheat-400);
+    opacity: 0.9;
 }
 
 /* Primary Variant */
 .btn-primary {
-    background: var(--dg-deep-blue);
+    background: var(--dg-blue-900);
     color: var(--dg-heather-50);
 }
 
@@ -33,12 +34,12 @@
 /* Outline Variant */
 .btn-outline {
     background: transparent;
-    border: 2px solid var(--dg-deep-blue);
-    color: var(--dg-deep-blue);
+    border: 2px solid var(--dg-blue-900);
+    color: var(--dg-blue-900);
 }
 
 .btn-outline:hover {
-    background: var(--dg-deep-blue);
+    background: var(--dg-blue-900);
     color: var(--dg-heather-50);
 }
 
