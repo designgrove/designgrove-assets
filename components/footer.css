@@ -3,4 +3,7 @@ footer {
     background: var(--dg-navier-900);
     color: var(--dg-white);
     text-align: center;
+    position: fixed;
+        right: 0;
+        bottom: 0;
 }
