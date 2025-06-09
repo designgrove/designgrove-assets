@@ -1,13 +1,13 @@
 section {
-    /*padding: 4rem 1rem;
+    padding: 4rem 1rem;
     max-width: var(--max-width);
-    margin: 0 auto;*/
+    margin: 0 auto;
 }
 
 .section-heading {
     font-size: var(--text-heading);
     font-weight: var(--weight-bold);
-    margin-bottom: 2rem;
+    margin: 2rem 0rem 2rem; /*top, right/left, bottom*/
     text-align: center;
 }
 
