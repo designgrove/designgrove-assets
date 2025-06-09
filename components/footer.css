@@ -1,9 +1,9 @@
+main {
+    overflow: hidden /*helps keep the footer at the bottom of the page*/
+}
 footer {
     padding: 2rem;
     background: var(--dg-navier-900);
     color: var(--dg-white);
     text-align: center;
-    position: fixed;
-        right: 0;
-        bottom: 0;
 }
