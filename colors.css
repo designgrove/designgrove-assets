@@ -10,6 +10,8 @@
   --dg-heather-100: #FAF2E6; /* Card surface */
   --dg-border-light: #EDE0D4;
   --dg-divider: #CFC6C0;
+  --dg-hero-bg:rgba(255, 248, 240, 0.85); 
+  --dg-white:white;/*slightly transparent backing for hero text*/
 
   /* TEXT / DEPTH */
   --dg-navier-900: #160F29; /* Primary text */
@@ -22,6 +24,10 @@
 
   /* Overlay */
   --dg-overlay-80: rgba(22, 15, 41, 0.8);
+
+/*Shadow*/
+--dg-shadow-10: rgba(0, 0, 0, 0.1);
+--dg-shadow-40:rgba(0, 0, 0, 0.4);
 }
 
 /* Quick utility demo (optional) */

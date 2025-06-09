@@ -1,0 +1,12 @@
+section {
+    padding: 4rem 1rem;
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+.section-heading {
+    font-size: var(--text-heading);
+    font-weight: var(--weight-bold);
+    margin-bottom: 2rem;
+    text-align: center;
+}
