@@ -3,7 +3,8 @@ main {
 }
 footer {
     padding: 2rem;
+    text-align: center;
     background: var(--dg-navier-900);
     color: var(--dg-white);
-    text-align: center;
+
 }

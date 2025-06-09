@@ -1,0 +1,23 @@
+:root {
+    --padding: 1rem;
+    --width-large: 1200px;
+    --width-med: 900px;
+    --width-small: 700px;
+    --width-xsmall:500px;
+}
+
+/*width utilities*/
+.xs-width {
+    max-width: var(--width-xsmall);
+}
+.sm-width {
+    max-width: var(--width-small);
+}
+
+.md-width {
+    max-width: var(--width-med);
+}
+
+.lg-width {
+    max-width: var(--width-large);
+}

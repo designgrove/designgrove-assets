@@ -1,23 +1,24 @@
 main section {
     padding: 2rem 1rem;
-    max-width: var(--max-width-section);
     margin: 0 auto;
 }
 
 .section-heading {
+    /*structure*/
+    margin: 2rem 0rem 2rem; /*top, right/left, bottom*/
+    padding-left: 2rem;
+    padding-right: 2rem;
+    min-width: 45%;
+    text-align: center;
+    /*styling*/
     font-size: var(--text-heading);
     font-weight: var(--weight-bold);
-    margin: 2rem 0rem 2rem; /*top, right/left, bottom*/
-    text-align: center;
-    padding-left: 2rem;
-        padding-right: 2rem;
-        min-width: 45%;
 }
 
 section h2 {
   /* background-color: var(--dg-teal-500);
     Choose your desired background color */
-    border-radius: 50px;
+    border-radius: 20px;
     /* Adjust the value to control the amount of rounding */
     padding: 10px;
     /* Add padding for spacing around the text */

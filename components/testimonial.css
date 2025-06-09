@@ -1,16 +1,20 @@
 .testimonial {
+    /*structure*/
+    padding-left: 1rem;
+    margin: 2rem 0;
+    max-width: var(--width-xsmall);
+    /*styling*/
     font-style: italic;
     font-size: 1.125rem;
     color: var(--dg-navier-900);
     border-left: 4px solid var(--dg-wheat-400);
-    padding-left: 1rem;
-    margin: 2rem 0;
-    max-width: 400px;
 }
 
 .testimonial cite {
+    /*structure*/
     display: block;
     margin-top: 0.5rem;
+    /*styling*/
     font-style: normal;
     font-weight: var(--weight-medium);
     color: var(--dg-blue-900);

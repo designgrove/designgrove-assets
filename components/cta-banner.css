@@ -1,10 +1,12 @@
 .cta-banner {
-    background: var(--dg-teal-500);
+    /*structure*/
+    margin: 4rem auto;
     padding: 3rem 2rem;
     border-radius: 1.5rem;
     text-align: center;
-    margin: 4rem auto;
+    /*styling*/
     color: var(--dg-navier-900);
+    background: var(--dg-teal-500);
 }
 
 .cta-banner h2 {
