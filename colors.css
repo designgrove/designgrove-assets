@@ -33,3 +33,15 @@
 /* Quick utility demo (optional) */
 .text-brand   { color: var(--dg-blue-900); }
 .bg-cta       { background: var(--dg-wheat-400); color: var(--dg-navier-900); }
+.section-wheat {
+  background: var(--dg-wheat-400)
+}
+
+.section-blue {
+  background: var(--dg-blue-900);
+  color: var(--dg-heather-50);
+}
+
+.section-teal {
+  background: var(--dg-teal-500);
+}
