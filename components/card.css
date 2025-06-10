@@ -23,3 +23,10 @@
     font-weight: var(--weight-light);
     color: var(--dg-navier-900);
 }
+
+.card-grid{
+    display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 2rem;
+        text-align: center;
+}
